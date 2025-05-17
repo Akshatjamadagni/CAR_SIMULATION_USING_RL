@@ -30,6 +30,8 @@ This project simulates an AI-controlled car navigating a map using a combination
 
 - The program outputs a visual simulation of the car's navigation and saves fitness values for each generation to `OUTPUT.txt`.
 - The `matplotlib` library is used to visualize fitness values over generations.
+- ![image](https://github.com/user-attachments/assets/55f007d5-c9e7-408e-8c0b-43ed47f58a83)
+
 
 ## Future Improvements
 
